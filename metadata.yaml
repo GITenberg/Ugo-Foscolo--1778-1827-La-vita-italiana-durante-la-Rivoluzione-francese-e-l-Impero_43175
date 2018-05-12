@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42051'
     url: http://www.gutenberg.org/2009/agents/42051
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43175#Ugo-Foscolo--1778-1827-La-vita-italiana-durante-la-Rivoluzione-francese-e-l-Impero
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2013-07-09'
 gutenberg_type: Text
