@@ -1,0 +1,32 @@
+_repo: Ugo-Foscolo--1778-1827-La-vita-italiana-durante-la-Rivoluzione-francese-e-l-Impero_43175
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43175-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chiarini, Giuseppe
+    birthdate: 1833
+    deathdate: 1908
+    gutenberg_agent_id: '42051'
+    url: http://www.gutenberg.org/2009/agents/42051
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2013-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43175'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Italy -- Civilization'
+- !lcsh 'France -- History -- 1789-1815'
+- !lcsh 'Italy -- History -- 1789-1815'
+- !lcsh 'Italy -- Social conditions'
+title: 'Ugo Foscolo (1778-1827)
+
+  La vita italiana durante la Rivoluzione francese e l''Impero'
+url: http://www.gutenberg.org/ebooks/43175
